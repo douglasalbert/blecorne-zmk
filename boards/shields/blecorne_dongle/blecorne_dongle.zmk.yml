@@ -1,0 +1,12 @@
+file_format: "1"
+id: blecorne_dongle
+name: BLE Corne Dongle
+type: shield
+url: https://boardsource.xyz
+requires:
+  - xiao_ble
+features:
+  - keys
+  - studio
+exposes:
+  - blecorne
